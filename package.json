@@ -1,0 +1,19 @@
+{
+  "name": "import-dendron",
+  "main": "./lib/import-dendron",
+  "version": "1.0.0",
+  "description": "This plugin allows you to import notes from Dendron Vaults.",
+  "keywords": [],
+  "repository": "https://github.com/totaldebug/inkdrop-import-dendron",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {
+    "core-js": "^3.23.1",
+    "fast-glob": "^3.2.11",
+    "inkdrop-model": "^2.7.1",
+    "markdown-yaml-metadata-parser": "^3.0.0",
+    "mime": "^2.6.0"
+  }
+}

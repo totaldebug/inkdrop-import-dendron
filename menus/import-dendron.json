@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "File",
+      "submenu": [
+        {
+          "label": "Import",
+          "submenu": [
+            {
+              "label": "from Dendron Vault...",
+              "command": "import-dendron:invoke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
