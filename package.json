@@ -20,5 +20,5 @@
     "pub:major": "ipm publish major",
     "pub:minor": "ipm publish minor",
     "pub:patch": "ipm publish patch"
-  },
+  }
 }
