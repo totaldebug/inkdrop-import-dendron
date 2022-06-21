@@ -32,7 +32,7 @@ ipm install import-dendron
 
 # Author
 
-| [![TotalDebug](https://totaldebug.uk/assets/images/logo.png)](https://linkedin.com/in/marksie1988) |
+| [![TotalDebug](https://totaldebug.uk/assets/img/logo.png)](https://linkedin.com/in/marksie1988) |
 | -------------------------------------------------------------------------------------------------- |
 | **marksie1988 (Steven Marks)**                                                                     |
 
