@@ -19,16 +19,12 @@ ipm install import-dendron
 - Select your Dendron vault.
 - After a while the import finishes.
 
-# Notebook and Tags
+# Features
 
-Running this plugin will automatically create new books and import your notes.
-
-If the book already exists, it will not be created.
-
-# TODO
-- If a note has the same name as a notebook, import as a note in that notebook
-- add option not to import blank notes
-- add option to import images from alternate location
+ - Converts dendron dot file notation to notebooks, sub-notebooks and notes.
+ - Won't create notebooks that already exist.
+ - Won't import notes that already exist in the notebook.
+ - Imports image attachments.
 
 # Contribution
 
